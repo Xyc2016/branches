@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@angular/cli": "^12.2.4",
     "classnames": "^2.3.1"
   }
 }
